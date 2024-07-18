@@ -10,6 +10,9 @@ module.exports = {
         'dark-grey': '#1f1f1f',
         'off-black': '#141414',
       },
+      fontFamily: {
+        'inter': ['Inter', 'sans-serif'],
+      },
   },
   plugins: [],
 }

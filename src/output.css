@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
 /*
 ! tailwindcss v3.4.5 | MIT License | https://tailwindcss.com
 */
@@ -446,7 +448,7 @@ video {
   display: none;
 }
 
-*, ::before, ::after {
+*, ::before, ::after{
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
   --tw-translate-x: 0;
@@ -500,7 +502,7 @@ video {
   --tw-contain-style:  ;
 }
 
-::backdrop {
+::backdrop{
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
   --tw-translate-x: 0;
@@ -554,7 +556,11 @@ video {
   --tw-contain-style:  ;
 }
 
-.text-green {
+.font-inter{
+  font-family: Inter, sans-serif;
+}
+
+.text-green{
   --tw-text-opacity: 1;
   color: rgb(197 248 42 / var(--tw-text-opacity));
 }
