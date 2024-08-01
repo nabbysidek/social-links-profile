@@ -1,0 +1,11 @@
+.links-button {
+    width: 83.333333%;
+    height: 2.5rem;
+    border-radius: 0.5rem;
+    margin-bottom: 0.75rem
+}
+
+.hover-effect:hover {
+    background-color: #c5f82a;
+    color: #141414;
+}
